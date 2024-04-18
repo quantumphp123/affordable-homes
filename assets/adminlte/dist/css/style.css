@@ -1,0 +1,47 @@
+.main-sidebar sidebar-dark-primary elevation-4,.navbar-white {
+    background: #1f386e!important;
+}
+
+
+#sidebarbg,.main-header navbar navbar-expand navbar-white navbar-light,.layout-fixed .main-sideba ,.main-sidebar,#bgcard{
+    background: #1f386e!important;
+}
+
+.info,.d-block,.nav-item,.nav-link,.brand-text,.login-box-msg,.mt-3 mb-1{
+    color: white!important;
+}
+
+
+.brand-text{
+    font-weight: 600!important;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.user-panel,.brand-link{
+    border-bottom: 1px solid white!important;
+}
+
+
+.content-header h1,.col-5,.card-body,.login-logo,.login-box,.login-logo a,.info-box-text{
+
+   color: #1f386e!important;
+   font-weight: 600!important;
+
+}
+
+.lead{
+
+    color: #1f386e!important;
+   font-weight: 500!important;
+
+}
+
+
+.input-group-append{
+    background: white;
+}
+
+#login,#reg{
+   color:white!important
+}
